@@ -1,0 +1,8 @@
+
+@layer base{
+    .amount-input {
+        .ant-input-number-input-wrap, .ant-input-number-input{
+            height: 100%;
+        }
+    }
+}
